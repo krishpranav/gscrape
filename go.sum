@@ -1,0 +1,4 @@
+bitbucket.org/zaphar/go-html-transform v0.1.1 h1:rLTyYKMrpz6e3fbfFKscM4IT/cIyNTYnnensIuaKuHw=
+bitbucket.org/zaphar/go-html-transform v0.1.1/go.mod h1:IeWGneS9IRNTH8RFvbR/I7IXSWh5AqLVSM4T8+dQp/g=
+golang.org/x/net v0.9.0 h1:aWJ/m6xSmxWBx+V0XRHTlrYrPG56jKsLdTFmsSsCzOM=
+golang.org/x/net v0.9.0/go.mod h1:d48xBJpPfHeWQsugry2m+kC02ZBRGRgulfHnEXEuWns=
